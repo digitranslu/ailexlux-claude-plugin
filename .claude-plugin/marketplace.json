@@ -1,0 +1,19 @@
+{
+  "name": "ailexlux",
+  "owner": {
+    "name": "Digital Transformation Luxembourg Sàrl-s",
+    "email": "contact@digitrans.lu",
+    "url": "https://ailexlux.digitrans.lu"
+  },
+  "description": "AiLexLux plugins for Claude: Luxembourg, French and EU legal research with exact sources.",
+  "plugins": [
+    {
+      "name": "ailexlux-legal",
+      "source": "./",
+      "description": "Research Luxembourg, French and EU legislation and case law with exact source passages, and work with documents in an AiLexLux workspace.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["legal", "law", "luxembourg", "eu", "france"]
+    }
+  ]
+}

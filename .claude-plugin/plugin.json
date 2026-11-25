@@ -1,0 +1,28 @@
+{
+  "name": "ailexlux-legal",
+  "displayName": "AiLexLux Legal",
+  "version": "1.0.0",
+  "description": "Research Luxembourg, French and EU legislation and case law with exact source passages, and work with documents in an AiLexLux workspace. Requires an AiLexLux account.",
+  "author": {
+    "name": "Digital Transformation Luxembourg Sàrl-s",
+    "email": "contact@digitrans.lu",
+    "url": "https://ailexlux.digitrans.lu"
+  },
+  "homepage": "https://ailexlux.digitrans.lu",
+  "license": "MIT",
+  "keywords": [
+    "legal research",
+    "Luxembourg law",
+    "French law",
+    "EU law",
+    "case law"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://ailexlux.digitrans.lu/agents",
+  "supportUrl": "https://ailexlux.digitrans.lu/support",
+  "privacyPolicyUrl": "https://ailexlux.digitrans.lu/privacy",
+  "termsOfServiceUrl": "https://ailexlux.digitrans.lu/terms",
+  "network": {
+    "hosts": ["ailexlux.digitrans.lu"]
+  }
+}
